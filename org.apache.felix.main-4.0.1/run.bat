@@ -1,0 +1,1 @@
+java -Xmx1500m -DOutputFolder="./analysisout" -jar bin/clap.jar
