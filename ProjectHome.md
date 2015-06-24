@@ -1,0 +1,1 @@
+The using of multiple custom class loaders in component-based Java programs makes runtime type errors happen more frequently. Clap uses points-to analysis and dynamically gathered behavior information of Java class loaders to detect runtime type errors in OSGi-based Java programs, without running them.
